@@ -1,141 +1,120 @@
-<div align="center">
+<h1 align="center">Hi, I'm Le Nhat Huy</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:312e81,75:7c3aed,100:06b6d4&height=230&section=header&text=Le%20Nhat%20Huy&fontSize=53&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20Data%20Science&descSize=17&descAlignY=59&descColor=e0e7ff&animation=fadeIn" alt="Header" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D62976&center=true&vCenter=true&width=700&lines=Final-year+student+at+Ton+Duc+Thang+University;Passionate+about+NLP,+Computer+Vision+and+Deep+Learning;Learning+by+building,+one+project+at+a+time" alt="Final-year student at Ton Duc Thang University. Passionate about NLP, Computer Vision and Deep Learning. Learning by building, one project at a time." />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=Learning+by+building%2C+one+project+at+a+time.;Exploring+Machine+Learning+%26+Deep+Learning;Curious+about+Computer+Vision+%26+NLP" alt="Typing introduction" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=LeNhatHuy219&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views" />
-
-<img src="https://img.shields.io/github/followers/LeNhatHuy219?label=Followers&style=flat-square&color=06b6d4&logo=none" alt="Followers" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/LeNhatHuy-CS">
+    <img src="https://komarev.com/ghpvc/?username=LeNhatHuy-CS&label=Profile%20Views&color=962fbf&style=flat-square" alt="Profile views" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-NLP%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning-d62976?style=flat-square" alt="Focus: NLP, Computer Vision, Deep Learning" />
+  <img src="https://img.shields.io/badge/Based%20in-Ho%20Chi%20Minh%20City-4f5bd5?style=flat-square" alt="Based in Ho Chi Minh City" />
+</p>
 
 ---
 
 ## About Me
 
-```yaml
-name: Le Nhat Huy
-education: Computer Science @ Ton Duc Thang University
+- **Final-year Computer Science student at Ton Duc Thang University**
+- Interested in **data analysis, machine learning and deep learning**, with a focus on **NLP and computer vision**
+- Worked as a **Teaching Assistant Intern at MindX** (May to Oct 2026)
+- Selected coursework: Deep Learning, Computer Vision, Machine Learning
+- Love understanding how things work, experimenting with ideas, and building useful solutions with data and AI
 
-interests:
-  - Artificial Intelligence
-  - Machine Learning & Deep Learning
-  - Computer Vision
-  - Natural Language Processing
-  - Data Science & Analytics
+---
 
-currently:
-  - Strengthening programming and problem-solving skills
-  - Building practical AI and data-driven applications
-  - Exploring modern deep learning architectures
-  - Turning research ideas into working solutions
-```
+## Currently
 
-> Understanding how things work, experimenting with ideas, and building useful solutions with data and AI.
+- Strengthening programming and problem-solving skills
+- Building practical AI and data-driven applications
+- Exploring modern deep learning architectures
+- Turning research ideas into working solutions
+
+---
+
+## Interest Areas
+
+- Computer vision and medical imaging
+- Natural language processing
+- Retrieval-augmented generation and LLM fine-tuning
+- Explainable AI and concept bottleneck models
+- Data analysis and statistics
 
 ---
 
 ## Tech Stack
 
-<div align="center">
-
-### Programming Languages
-
-<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/R-1E293B?style=flat-square" />
-<img src="https://img.shields.io/badge/Java-312E81?style=flat-square" />
-<img src="https://img.shields.io/badge/C-4338CA?style=flat-square" />
-<img src="https://img.shields.io/badge/SQL-4F46E5?style=flat-square" />
-
-<br/>
-
-### Machine Learning & Deep Learning
-
-<img src="https://img.shields.io/badge/PyTorch-0F172A?style=flat-square" />
-<img src="https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square" />
-<img src="https://img.shields.io/badge/Scikit--Learn-312E81?style=flat-square" />
-<img src="https://img.shields.io/badge/OpenCV-4338CA?style=flat-square" />
-
-<br/>
-
-### Data Science & Analytics
-
-<img src="https://img.shields.io/badge/NumPy-0F172A?style=flat-square" />
-<img src="https://img.shields.io/badge/Pandas-1E293B?style=flat-square" />
-<img src="https://img.shields.io/badge/Matplotlib-312E81?style=flat-square" />
-<img src="https://img.shields.io/badge/Seaborn-4338CA?style=flat-square" />
-<img src="https://img.shields.io/badge/Power%20BI-4F46E5?style=flat-square" />
-
-<br/>
-
-### Databases
-
-<img src="https://img.shields.io/badge/MySQL-0F172A?style=flat-square" />
-<img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square" />
-<img src="https://img.shields.io/badge/MongoDB-312E81?style=flat-square" />
-
-<br/>
-
-### Development Tools
-
-<img src="https://img.shields.io/badge/Git-0F172A?style=flat-square" />
-<img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square" />
-<img src="https://img.shields.io/badge/Docker-312E81?style=flat-square" />
-<img src="https://img.shields.io/badge/VS%20Code-4338CA?style=flat-square" />
-<img src="https://img.shields.io/badge/Jupyter-4F46E5?style=flat-square" />
-<img src="https://img.shields.io/badge/Google%20Colab-6366F1?style=flat-square" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-4f5bd5?style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/R-4f5bd5?style=flat-square" alt="R" />
+  <img src="https://img.shields.io/badge/Java-4f5bd5?style=flat-square" alt="Java" />
+  <img src="https://img.shields.io/badge/C-4f5bd5?style=flat-square" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-4f5bd5?style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-4f5bd5?style=flat-square" alt="PHP" />
+  <img src="https://img.shields.io/badge/SQL-4f5bd5?style=flat-square" alt="SQL" />
+  <br>
+  <img src="https://img.shields.io/badge/scikit--learn-962fbf?style=flat-square" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-962fbf?style=flat-square" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-962fbf?style=flat-square" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-962fbf?style=flat-square" alt="OpenCV" />
+  <br>
+  <img src="https://img.shields.io/badge/Pandas-d62976?style=flat-square" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-d62976?style=flat-square" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-d62976?style=flat-square" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-d62976?style=flat-square" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Power_BI-d62976?style=flat-square" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Jupyter-d62976?style=flat-square" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Google_Colab-d62976?style=flat-square" alt="Google Colab" />
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-fa7e1e?style=flat-square" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-fa7e1e?style=flat-square" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-fa7e1e?style=flat-square" alt="MongoDB" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-262626?style=flat-square" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-262626?style=flat-square" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-262626?style=flat-square" alt="Docker" />
+  <img src="https://img.shields.io/badge/VS_Code-262626?style=flat-square" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Anaconda-262626?style=flat-square" alt="Anaconda" />
+</p>
 
 ---
 
-## Focus Areas
+## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeNhatHuy-CS&layout=compact&hide_border=true&bg_color=0d1020&title_color=feda75&text_color=c9cfe8" height="180" alt="Top languages" />
+</p>
 
-| Machine Learning | Deep Learning | Computer Vision |
-|:---:|:---:|:---:|
-| Classification | Neural Networks | Image Classification |
-| Regression | Model Optimization | Object Detection |
-| Unsupervised Learning | Representation Learning | Visual Understanding |
+<p align="center">
+  <img src="https://ghchart.rshah.org/d62976/LeNhatHuy-CS" width="100%" alt="GitHub contributions of LeNhatHuy-CS in the last year" />
+</p>
+---
 
-<br/>
+## Contact
 
-| Data Science | Natural Language Processing | AI Applications |
-|:---:|:---:|:---:|
-| Exploratory Data Analysis | Text Processing | AI System Development |
-| Data Visualization | Language Models | Model Integration |
-| Statistical Analysis | Sequence Modeling | Applied AI |
+<p align="center">
+  <a href="mailto:lenhathuy.computerscience@gmail.com">
+    <img src="https://img.shields.io/badge/Email-d62976?style=for-the-badge" alt="Email" />
+  </a>
+  <a href="https://lenhathuy-cs.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-962fbf?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://orcid.org/0009-0004-7036-0578">
+    <img src="https://img.shields.io/badge/ORCID-4f5bd5?style=for-the-badge" alt="ORCID" />
+  </a>
+  <a href="https://drive.google.com/drive/folders/1RE2OBHP00mj_fhOo8nGptx-nKutcAq4N?usp=sharing">
+    <img src="https://img.shields.io/badge/CV-fa7e1e?style=for-the-badge" alt="CV" />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <b>Le Nhat Huy</b><br>
+  lenhathuy.computerscience@gmail.com · lenhathuy219@gmail.com
+</p>
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LeNhatHuy219&show_icons=false&hide_border=true&bg_color=0f172a&title_color=67e8f9&text_color=e2e8f0&rank_icon=none" height="165" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeNhatHuy219&layout=compact&hide_border=true&bg_color=0f172a&title_color=67e8f9&text_color=e2e8f0&langs_count=6" height="165" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=LeNhatHuy219&hide_border=true&background=0F172A&ring=7C3AED&fire=22D3EE&currStreakLabel=67E8F9&sideLabels=C4B5FD&dates=94A3B8&sideNums=F8FAFC&currStreakNum=F8FAFC" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
-
-### Learn deeply. Build thoughtfully. Keep improving.
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:312e81,75:7c3aed,100:06b6d4&height=110&section=footer" alt="Footer" />
-
-</div>
+<p align="center">
+  <i>"Learning by building, one project at a time."</i>
+</p>
